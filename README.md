@@ -6,11 +6,11 @@
 
 ## ----------------------------------------------------------------------------------------
 ## Number of Infections by Race and County
-   ### a) Total infections for African American.
+   ### a) Number of infections for African American in each County
 ![](output/African%20American%20number%20of%20Infections.PNG)
 
 
-   ### b) Total infections for Asians.
+   ### b) Number of infections for Asians in each County
 ![](output/Asian%20number%20of%20Infections.PNG)
 
 ## Summary table of Number of Infections by Race and County

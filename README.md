@@ -29,3 +29,6 @@
 
 ## Summary table of infection rates of different race groups by county
 ![](output/Summary%20table%20of%20infection%20rates%20of%20different%20race%20groups%20by%20county.PNG)
+
+## independent t-test
+![](output/Capture.PNG)

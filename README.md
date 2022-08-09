@@ -17,18 +17,30 @@
 ![](output/Summary%20table%20of%20total%20number%20of%20infections%20by%20county%20and%20race.PNG)
 
 
-## Infection rate of different racial groups in Minnesota
-![](output/Infection%20rate%20of%20different%20racial%20groups%20in%20Minnesota.PNG)
+## Infection rate, % (number of infections / race population) of different racial groups in Minnesota from March 2020 to April 2022 
+![](output/infection%20rate-percentage.PNG)
 
-## Infection rate of Caucasian and Non-Caucasian in Minnesota
-![](output/Infection%20rate%20of%20Caucasian%20and%20Non-Caucasian%20in%20Minnesota.PNG)
+## Infection rate, % (number of infections / race population) of Caucasian and Non-Caucasian in Minnesota from March 2020 to April 2022 
+![](output/infection%20rate-percentage-two%20groups.PNG)
 
 
-## Summary table of infection rates of caucasian and non-caucasian groups by county
-![](output/Summary%20table%20of%20infection%20rates%20of%20caucasian%20and%20non-caucasian%20groups%20by%20county.PNG)
+## Infection ratio (Infection rate / % population of race) of Caucasian and Non-Caucasian in Minnesota
+![](output/infection%20rate-ratio-corrected-two%20groups.PNG)
 
-## Summary table of infection rates of different race groups by county
-![](output/Summary%20table%20of%20infection%20rates%20of%20different%20race%20groups%20by%20county.PNG)
+## Summary table of infection ratio (Infection rate / % population of race) of caucasian and non-caucasian groups by County
+![](output/infection%20rate-ratio-corrected-two%20groups%20by%20county.PNG)
 
 ## independent t-test
-![](output/Capture.PNG)
+![](output/T-test-two%20race%20groups.PNG)
+
+## Summary table of infection ratio (Infection rate / % population of race) of different race groups by County
+![](output/infection%20rate-ratio-corrected-all%20race%20groups%20by%20county.PNG)
+
+## ANOVA test
+![](output/ANOVA%20test-infection%20ratio-corrected.PNG)
+
+## Poverty rate (number of poverty / race population for each county) of Caucasian and Non-Caucasian groups in Minnesota
+![](output/poverty%20rate-two%20racial%20groups.png)
+
+## Poverty rate independent t-test
+![](output/poverty%20t-test.PNG)

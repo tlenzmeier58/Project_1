@@ -13,12 +13,14 @@
    ### b) Number of infections for Asians in each County
 ![](output/Asian%20number%20of%20Infections.PNG)
 
-## Summary table of Number of Infections by Race and County
+## Comprehensive table of Number of Infections by Race and County
 ![](output/Summary%20table%20of%20total%20number%20of%20infections%20by%20county%20and%20race.PNG)
 
-
-## Infection rate, % (number of infections / race population) of different racial groups in Minnesota from March 2020 to April 2022 
+## Summary table of the Infection rate, % (number of infections / Total Census Population of each Racial Group) of different racial groups in Minnesota from March 2020 to April 2022 
 ![](output/infection%20rate-percentage.PNG)
+
+## Population in MN by race
+![](output/Population%20in%20MN.PNG)
 
 ## Infection rate, % (number of infections / race population) of Caucasian and Non-Caucasian in Minnesota from March 2020 to April 2022 
 ![](output/infection%20rate-percentage-two%20groups.PNG)

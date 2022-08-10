@@ -3,7 +3,7 @@
 # Project 1
 # COVID-19 and It's Impact on Minnesota
 
-## Team:
+## Data Scientists In Training:
 ###   Sung Ahn, Lief Herzfeld, Tom Lenzmeier, Mauvonte Roberts, and Mai Yang
 
 ### Our project focused on the impact of COVID-19 on racial groups in MN as well as those in poverty.
@@ -23,3 +23,5 @@
 ### 11. Draw conclusions based on our tests.
 ### 12. Present our findings.
 ### 13. It's Miller time!
+
+## Note: Lief did not present due to an unexpected health emergency. Nevertheless, he was a total team player and we would not have succeeded without his efforts.
